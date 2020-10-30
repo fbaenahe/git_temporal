@@ -1,3 +1,3 @@
-mensaje (){
+function mensaje (){
     alert("Whats up");
 }
